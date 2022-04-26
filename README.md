@@ -21,7 +21,7 @@ Go to the Upload and Download page on the top left of the navigation bar
 ```bash
 $ git clone https://github.com/yueshengluo/Fortinet_task_A.git
 # change the directory
-$ cd fortinet_interview
+$ cd Fortinet_task_A
 # install packages
 $ pip install -r requirements.txt
 # start the server
