@@ -18,10 +18,8 @@ Go to the Upload and Download page on the top left of the navigation bar
 
 ## Installation & Usage
 
-Get your Unsplash API and put it in the `.env` file.
-
 ```bash
-$ git clone git@github.com:yueshengluo/fortinet_interview.git
+$ git clone https://github.com/yueshengluo/Fortinet_task_A.git
 # change the directory
 $ cd fortinet_interview
 # install packages
